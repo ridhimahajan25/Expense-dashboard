@@ -5,7 +5,7 @@ Features AI auto-categorisation, budget tracking, streak rewards, and responsive
 No sign-up required — data stays local.
 
 ## Live Demo
-[View Live →](https://expense-dashboard.vercel.app) *(update this link after deploying)*
+[View Live →]([https://expense-dashboard.vercel.app](https://expense-dashboard-lvklqvd6h-ridhimahajan25s-projects.vercel.app/)) *(update this link after deploying)*
 
 ## Features
 - AI auto-categorisation from natural language notes
